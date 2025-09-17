@@ -6,9 +6,9 @@ $acao = $_GET['acao'];
 switch ($acao) {
     case "criar":
         $frases = [
-            "O PHP é uma linguagem poderosa para web.",
-            "Aprender programação requer prática.",
-            "Persistência leva ao sucesso."
+            "O PHP é uma linguagem poderosa para web. \n",
+            "Aprender programação requer prática.\n",
+            "Persistência leva ao sucesso.\n"
         ];
 
         $arquivo = fopen($nomeArquivo, "w");

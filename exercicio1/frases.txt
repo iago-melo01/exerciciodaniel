@@ -1,1 +1,3 @@
-O PHP é uma linguagem poderosa para web.Aprender programação requer prática.Persistência leva ao sucesso.
+O PHP é uma linguagem poderosa para web. 
+Aprender programação requer prática.
+Persistência leva ao sucesso.
